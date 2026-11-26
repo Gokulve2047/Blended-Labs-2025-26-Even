@@ -112,7 +112,7 @@ Test the database server by connecting to it locally or remotely and performing 
 ### Screenshot 3: Sample Database and Table
 
 <img width="1130" height="590" alt="image" src="https://github.com/user-attachments/assets/4a579b47-e745-4134-92f5-8e89e141b5c0" />
-<img width="1822" height="863" alt="image" src="https://github.com/user-attachments/assets/e13d14f8-71c9-4abc-b0d5-b5c76da2a1a5" />
+<img width="1142" height="542" alt="image" src="https://github.com/user-attachments/assets/683b1b46-0187-4676-b541-297a0ba020da" />
 
 
 
